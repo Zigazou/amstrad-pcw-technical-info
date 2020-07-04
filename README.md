@@ -7,4 +7,4 @@ This is a repository for technical information about the Amstrad PCW:
 - [Memory controller](memory-controller/README.md)
 - [Video memory](video-memory/README.md)
 - [Expansion port pinout](expansion-port-pinout/README.md)
-
+- [Circuit](circuit/README.md)
